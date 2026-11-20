@@ -1,0 +1,101 @@
+Order_ID,Order_Date,Customer_ID,Product,Category,Quantity,Unit_Price_INR,Discount_Percent,Discount_Amount_INR,Net_Sales_INR,Cost_INR,Profit_INR,Payment_Method,City,Region,Order_Status
+ORD0001,2026-02-14,CUST055,Wireless Mouse,Electronics,3,565.84,5,84.88,1612.64,1222.21,390.43,UPI,Lucknow,Central,Delivered
+ORD0001,2026-10-07,CUST054,Bluetooth Speaker,Electronics,2,1835.71,20,734.28,2937.14,2790.28,0.0,Credit Card,Kochi,South,Cancelled
+ORD0003,2026-03-21,CUST028,Cookbook,Books,1,570.76,5,28.54,542.22,342.46,199.76,Debit Card,Kolkata,East,Delivered
+ORD0004,2026-01-23,CUST059,Smart Watch,Electronics,1,3742.18,10,374.22,3367.96,2993.74,0.0,Net Banking,Kolkata,East,Cancelled
+ORD0005,2026-10-23,CUST025,Face Wash,Beauty,5,265.4,10,132.7,1194.3,796.2,0.0,UPI,Kolkata,East,Cancelled
+ORD0006,2026-08-21,CUST047,Sneakers,Fashion,1,2467.51,5,123.38,2344.13,1727.26,0.0,Credit Card,Bhubaneswar,East,Returned
+ORD0007,2026-05-06,CUST021,Mixer Grinder,Home & Kitchen,3,2860.09,0,0.0,8580.27,6606.81,1973.46,Cash on Delivery,Kanpur,Central,Delivered
+ORD0008,2026-07-25,CUST035,Mixer Grinder,Home & Kitchen,3,2647.32,0,0.0,7941.96,6115.31,1826.65,UPI,Patna,East,Delivered
+ORD0009,2026-05-16,CUST018,Cookbook,Books,2,537.54,15,161.26,913.82,645.05,0.0,Credit Card,Hyderabad,South,Returned
+ORD0010,2026-09-10,CUST012,Exam Preparation Book,Books,5,485.23,15,363.92,2062.23,1528.47,533.76,UPI,Lucknow,Central,Delivered
+ORD0011,2026-08-28,CUST033,Denim Jeans,Fashion,4,1368.15,20,1094.52,4378.08,3721.37,0.0,Net Banking,Lucknow,Central,Returned
+ORD0012,2026-01-02,CUST034,USB-C Hub,Electronics,3,1245.35,0,0.0,3736.05,2914.12,821.93,Net Banking,Pune,West,Delivered
+ORD0013,2026-03-24,CUST001,Fiction Novel,Books,3,407.7,20,244.62,978.48,709.4,269.08,Net Banking,Bhubaneswar,East,Delivered
+ORD0014,2026-01-30,CUST031,Face Wash,Beauty,1,267.86,10,26.79,241.07,160.72,80.35,Net Banking,Bengaluru,South,Delivered
+ORD0015,2026-10-09,CUST022,Smart Watch,Electronics,1,3685.03,20,737.01,2948.02,2948.02,0.0,Debit Card,Surat,West,Delivered
+ORD0016,2026-09-22,CUST058,Denim Jeans,Fashion,3,1647.45,15,741.35,4201.0,3360.8,840.2,UPI,Pune,West,Delivered
+ORD0017,2026-04-23,CUST001,Cotton T-Shirt,Fashion,3,507.81,0,0.0,1523.43,990.23,533.2,UPI,Lucknow,Central,Delivered
+ORD0018,2026-09-06,CUST028,Cotton T-Shirt,Fashion,1,456.17,10,45.62,410.55,296.51,114.04,Net Banking,Patna,East,Delivered
+ORD0019,2026-02-19,CUST056,Exam Preparation Book,Books,2,529.69,15,158.91,900.47,667.41,233.06,Debit Card,Chandigarh,North,Delivered
+ORD0020,2026-05-08,CUST025,Sunscreen,Beauty,1,546.36,0,0.0,546.36,371.52,174.84,Credit Card,Chandigarh,North,Delivered
+ORD0021,2026-10-09,CUST013,Backpack,Fashion,2,991.53,10,198.31,1784.75,1328.65,456.1,UPI,Mumbai,West,Delivered
+ORD0022,2026-01-31,CUST022,Bluetooth Speaker,Electronics,2,1793.83,15,538.15,3049.51,2726.62,322.89,Cash on Delivery,Mumbai,West,Delivered
+ORD0023,2026-03-21,CUST025,Shampoo,Beauty,4,343.63,10,137.45,1237.07,907.18,0.0,Debit Card,Pune,West,Cancelled
+ORD0024,2026-09-29,CUST021,Wireless Mouse,Electronics,3,545.11,0,0.0,1635.33,1177.44,0.0,UPI,Lucknow,Central,Returned
+ORD0025,2026-03-03,CUST032,Cotton T-Shirt,Fashion,5,516.49,0,0.0,2582.45,1678.59,903.86,Net Banking,Mumbai,West,Delivered
+ORD0026,2026-04-15,CUST041,Fiction Novel,Books,4,404.21,20,323.37,1293.47,937.77,355.7,Credit Card,Bhubaneswar,East,Delivered
+ORD0027,2026-08-23,CUST013,Moisturizer,Beauty,3,480.65,15,216.29,1225.66,922.85,302.81,UPI,Ghaziabad,North,Delivered
+ORD0028,2026-05-26,CUST021,Cookbook,Books,2,590.82,10,118.16,1063.48,708.98,354.5,Cash on Delivery,Bhubaneswar,East,Delivered
+ORD0029,2026-05-16,CUST015,Fiction Novel,Books,5,433.45,10,216.72,1950.53,1257.01,693.52,UPI,Chennai,South,Delivered
+ORD0030,2026-09-16,CUST063,Bedsheet Set,Home & Kitchen,5,1251.18,5,312.8,5943.1,4316.57,1626.53,Debit Card,Kolkata,East,Delivered
+ORD0031,2026-03-24,CUST057,Smart Watch,Electronics,3,3151.58,0,0.0,9454.74,7563.79,1890.95,Net Banking,Guwahati,East,Delivered
+ORD0032,2026-01-19,CUST048,Fiction Novel,Books,1,434.52,0,0.0,434.52,252.02,182.5,Net Banking,Bhopal,Central,Delivered
+ORD0033,2026-04-18,CUST032,Moisturizer,Beauty,1,485.49,10,48.55,436.94,310.71,126.23,UPI,Bhubaneswar,East,Delivered
+ORD0034,2026-04-01,CUST053,Exam Preparation Book,Books,5,541.49,5,135.37,2572.08,1705.69,866.39,UPI,Chennai,South,Delivered
+ORD0035,2026-01-20,CUST061,Desk Lamp,Home & Kitchen,2,837.72,10,167.54,1507.9,1189.56,318.34,Credit Card,Pune,West,Delivered
+ORD0036,2026-06-18,CUST036,Shampoo,Beauty,3,329.66,5,49.45,939.53,652.73,286.8,UPI,Ahmedabad,West,Delivered
+ORD0037,2026-04-02,CUST034,Desk Lamp,Home & Kitchen,5,977.97,10,488.99,4400.86,3471.79,929.07,UPI,Kolkata,East,Delivered
+ORD0038,2026-07-17,CUST025,Exam Preparation Book,Books,3,492.65,10,147.79,1330.16,931.11,0.0,Debit Card,Delhi,North,Cancelled
+ORD0039,2026-08-09,CUST009,Face Wash,Beauty,5,258.31,20,258.31,1033.24,774.93,258.31,Debit Card,Bhubaneswar,East,Delivered
+ORD0040,2026-06-01,CUST017,USB-C Hub,Electronics,5,1342.36,10,671.18,6040.62,5235.2,805.42,Credit Card,Surat,West,Delivered
+ORD0041,2026-06-05,CUST037,Moisturizer,Beauty,5,479.13,20,479.13,1916.52,1533.22,0.0,Credit Card,Chandigarh,North,Cancelled
+ORD0042,2026-08-31,CUST022,Cookbook,Books,4,542.65,15,325.59,1845.01,1302.36,542.65,UPI,Indore,Central,Delivered
+ORD0043,2026-03-17,CUST004,Cookbook,Books,1,567.97,5,28.4,539.57,340.78,198.79,UPI,Chennai,South,Delivered
+ORD0044,2026-07-16,CUST064,Face Wash,Beauty,4,268.23,15,160.94,911.98,643.75,0.0,Cash on Delivery,Chennai,South,Cancelled
+ORD0045,2026-01-26,CUST032,Cotton T-Shirt,Fashion,1,470.94,15,70.64,400.3,306.11,0.0,UPI,Surat,West,Cancelled
+ORD0046,2026-09-16,CUST055,Backpack,Fashion,5,1018.07,20,1018.07,4072.28,3410.53,0.0,Net Banking,Kanpur,Central,Returned
+ORD0047,2026-09-06,CUST031,Backpack,Fashion,4,1049.31,10,419.72,3777.52,2812.15,965.37,Debit Card,Kanpur,Central,Delivered
+ORD0048,2026-03-12,CUST020,USB-C Hub,Electronics,2,1256.35,10,251.27,2261.43,1959.91,0.0,Credit Card,Chandigarh,North,Cancelled
+ORD0049,2026-08-01,CUST008,Denim Jeans,Fashion,1,1471.3,15,220.69,1250.61,1000.48,0.0,Credit Card,Surat,West,Cancelled
+ORD0050,2026-07-19,CUST054,Face Wash,Beauty,5,247.85,15,185.89,1053.36,743.55,309.81,Net Banking,Patna,East,Delivered
+ORD0051,2026-07-27,CUST022,Moisturizer,Beauty,3,497.57,15,223.91,1268.8,955.33,0.0,Cash on Delivery,Patna,East,Returned
+ORD0052,2026-08-08,CUST018,Fiction Novel,Books,4,404.14,20,323.31,1293.25,937.6,355.65,Cash on Delivery,Ghaziabad,North,Delivered
+ORD0053,2026-07-14,CUST036,USB-C Hub,Electronics,4,1224.09,10,489.64,4406.72,3819.16,587.56,Cash on Delivery,Bhubaneswar,East,Delivered
+ORD0054,2026-02-05,CUST006,Smart Watch,Electronics,1,3185.55,20,637.11,2548.44,2548.44,0.0,UPI,Chennai,South,Delivered
+ORD0055,2026-10-16,CUST028,Cotton T-Shirt,Fashion,5,472.91,5,118.23,2246.32,1536.96,0.0,Cash on Delivery,Jaipur,North,Returned
+ORD0056,2026-06-09,CUST014,Mixer Grinder,Home & Kitchen,5,3058.6,20,3058.6,12234.4,11775.61,458.79,Net Banking,Bengaluru,South,Delivered
+ORD0057,2026-06-04,CUST016,Desk Lamp,Home & Kitchen,4,822.76,5,164.55,3126.49,2336.64,789.85,Net Banking,Delhi,North,Delivered
+ORD0058,2026-08-04,CUST063,Desk Lamp,Home & Kitchen,3,900.07,0,0.0,2700.21,1917.15,783.06,UPI,Chandigarh,North,Delivered
+ORD0059,2026-10-03,CUST062,Desk Lamp,Home & Kitchen,2,840.77,15,252.23,1429.31,1193.89,0.0,Cash on Delivery,Guwahati,East,Cancelled
+ORD0060,2026-08-19,CUST032,Cookbook,Books,3,585.31,5,87.8,1668.13,1053.56,614.57,Cash on Delivery,Guwahati,East,Delivered
+ORD0061,2026-05-13,CUST044,Water Bottle,Home & Kitchen,4,373.61,10,149.44,1345.0,926.55,418.45,Debit Card,Bhubaneswar,East,Delivered
+ORD0062,2026-10-12,CUST031,Fiction Novel,Books,5,365.93,5,91.48,1738.17,1061.2,0.0,Cash on Delivery,Surat,West,Returned
+ORD0063,2026-10-25,CUST048,Face Wash,Beauty,1,235.14,10,23.51,211.63,141.08,70.55,Cash on Delivery,Bhubaneswar,East,Delivered
+ORD0064,2026-03-03,CUST025,Shampoo,Beauty,3,333.01,15,149.85,849.18,659.36,189.82,Debit Card,Bengaluru,South,Delivered
+ORD0065,2026-09-26,CUST037,Data Analytics Guide,Books,2,732.36,5,73.24,1391.48,908.13,483.35,UPI,Bhopal,Central,Delivered
+ORD0066,2026-05-21,CUST006,Mixer Grinder,Home & Kitchen,3,2688.31,5,403.25,7661.68,6210.0,0.0,UPI,Hyderabad,South,Cancelled
+ORD0067,2026-08-14,CUST044,Backpack,Fashion,1,1013.8,0,0.0,1013.8,679.25,0.0,Credit Card,Mumbai,West,Returned
+ORD0068,2026-01-28,CUST020,Desk Lamp,Home & Kitchen,1,881.15,0,0.0,881.15,625.62,255.53,Credit Card,Indore,Central,Delivered
+ORD0069,2026-04-26,CUST049,Bluetooth Speaker,Electronics,1,1894.15,20,378.83,1515.32,1439.55,0.0,Cash on Delivery,Kanpur,Central,Cancelled
+ORD0070,2026-04-17,CUST028,Desk Lamp,Home & Kitchen,3,920.76,20,552.46,2209.82,1961.22,0.0,Debit Card,Delhi,North,Cancelled
+ORD0071,2026-08-19,CUST061,Denim Jeans,Fashion,2,1371.6,20,548.64,2194.56,1865.38,329.18,Debit Card,Mumbai,West,Delivered
+ORD0072,2026-04-12,CUST055,Sneakers,Fashion,3,2101.83,15,945.82,5359.67,4413.84,945.83,UPI,Patna,East,Delivered
+ORD0073,2026-10-19,CUST037,Sneakers,Fashion,2,2096.52,0,0.0,4193.04,2935.13,1257.91,Cash on Delivery,Lucknow,Central,Delivered
+ORD0074,2026-02-11,CUST006,Shampoo,Beauty,4,349.03,10,139.61,1256.51,921.44,0.0,Cash on Delivery,Ahmedabad,West,Returned
+ORD0075,2026-01-11,CUST035,Cookbook,Books,1,519.24,0,0.0,519.24,311.54,0.0,Net Banking,Lucknow,Central,Cancelled
+ORD0076,2026-08-12,CUST063,Backpack,Fashion,5,1082.13,15,811.6,4599.05,3625.14,973.91,UPI,Kanpur,Central,Delivered
+ORD0077,2026-07-30,CUST064,Desk Lamp,Home & Kitchen,3,929.59,10,278.88,2509.89,1980.03,529.86,Debit Card,Guwahati,East,Delivered
+ORD0078,2026-07-26,CUST001,Fiction Novel,Books,4,384.2,0,0.0,1536.8,891.34,645.46,Net Banking,Chandigarh,North,Delivered
+ORD0079,2026-01-27,CUST027,Face Wash,Beauty,2,242.12,20,96.85,387.39,290.54,0.0,Debit Card,Pune,West,Returned
+ORD0080,2026-03-23,CUST040,Desk Lamp,Home & Kitchen,4,814.29,0,0.0,3257.16,2312.58,0.0,Net Banking,Bengaluru,South,Cancelled
+ORD0081,2026-03-02,CUST020,Exam Preparation Book,Books,1,548.13,5,27.41,520.72,345.32,175.4,Cash on Delivery,Ahmedabad,West,Delivered
+ORD0082,2026-10-10,CUST019,Cookbook,Books,4,601.73,15,361.04,2045.88,1444.15,601.73,Cash on Delivery,Pune,West,Delivered
+ORD0083,2026-09-17,CUST035,Data Analytics Guide,Books,1,737.12,10,73.71,663.41,457.01,0.0,UPI,Bhubaneswar,East,Returned
+ORD0084,2026-10-10,CUST049,Desk Lamp,Home & Kitchen,2,905.94,15,271.78,1540.1,1286.43,253.67,Cash on Delivery,Bhubaneswar,East,Delivered
+ORD0085,2026-06-12,CUST061,Denim Jeans,Fashion,5,1419.12,15,1064.34,6031.26,4825.01,0.0,Cash on Delivery,Chandigarh,North,Returned
+ORD0086,2026-02-21,CUST057,Backpack,Fashion,1,999.46,5,49.97,949.49,669.64,0.0,UPI,Guwahati,East,Cancelled
+ORD0087,2026-07-23,CUST011,Bluetooth Speaker,Electronics,4,1646.02,5,329.2,6254.88,5003.9,1250.98,Debit Card,Guwahati,East,Delivered
+ORD0088,2026-04-27,CUST012,Desk Lamp,Home & Kitchen,5,920.12,0,0.0,4600.6,3266.43,1334.17,Cash on Delivery,Kolkata,East,Delivered
+ORD0089,2026-01-29,CUST038,Smart Watch,Electronics,2,3781.32,10,756.26,6806.38,6050.11,756.27,Debit Card,Bhubaneswar,East,Delivered
+ORD0090,2026-03-31,CUST011,Moisturizer,Beauty,2,490.22,20,196.09,784.35,627.48,156.87,Net Banking,Kochi,South,Delivered
+ORD0091,2026-08-24,CUST033,Data Analytics Guide,Books,4,649.11,20,519.29,2077.15,1609.79,0.0,UPI,Guwahati,East,Returned
+ORD0092,2026-08-06,CUST033,Mixer Grinder,Home & Kitchen,1,3048.24,15,457.24,2591.0,2347.14,0.0,Cash on Delivery,Bhubaneswar,East,Cancelled
+ORD0093,2026-10-22,CUST038,Backpack,Fashion,4,946.49,0,0.0,3785.96,2536.59,0.0,Debit Card,Kolkata,East,Cancelled
+ORD0094,2026-09-12,CUST037,Shampoo,Beauty,1,374.48,20,74.9,299.58,247.16,52.42,Credit Card,Indore,Central,Delivered
+ORD0095,2026-01-21,CUST040,Denim Jeans,Fashion,5,1552.29,10,776.14,6985.31,5277.79,1707.52,Cash on Delivery,Delhi,North,Delivered
+ORD0096,2026-03-31,CUST026,Cookbook,Books,2,593.98,0,0.0,1187.96,712.78,475.18,Credit Card,Ahmedabad,West,Delivered
+ORD0097,2026-06-23,CUST015,Cookbook,Books,2,594.46,10,118.89,1070.03,713.35,0.0,Cash on Delivery,Kolkata,East,Returned
+ORD0098,2026-05-16,CUST016,Denim Jeans,Fashion,4,1458.76,20,1167.01,4668.03,3967.83,0.0,Cash on Delivery,Jaipur,North,Returned
+ORD0099,2026-10-15,CUST042,Desk Lamp,Home & Kitchen,3,930.44,0,0.0,2791.32,1981.84,0.0,Net Banking,Ghaziabad,North,Returned
+ORD0100,2026-06-05,CUST064,Smart Watch,Electronics,3,3230.75,15,1453.84,8238.41,7753.8,484.61,UPI,Delhi,North,Delivered
